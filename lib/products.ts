@@ -5,6 +5,7 @@ export interface Product {
   variant: string
   price: number
   type: string
+  imageUrl?: string
 }
 
 export const products: Product[] = [
