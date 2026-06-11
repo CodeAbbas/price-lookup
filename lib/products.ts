@@ -335,6 +335,8 @@ export const products: Product[] = [
   { id: "BS-114", category: "Bedroom Sets", name: "Dirty Oak", variant: "King", price: 75, type: "Bed Frame" },
   { id: "BS-115", category: "Bedroom Sets", name: "Diva", variant: "Single", price: 70, type: "Bed Frame" },
   { id: "BS-116", category: "Bedroom Sets", name: "Diva", variant: "Double", price: 80, type: "Bed Frame" },
+  { id: "BS-117", category: "Bedroom Sets", name: "Ottoman", variant: "King", price: 165, type: "Bed Frame" },
+  { id: "BS-116", category: "Bedroom Sets", name: "Alice", variant: "King", price: 195, type: "Bed Frame" },
 
   // --- Clearance Items ---
   { id: "BS-200", category: "Bedroom Sets", name: "Berlin", variant: "King", price: 350, type: "Bed Frame" },
